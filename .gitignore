@@ -1,2 +1,6 @@
 # Node
 node_modules
+
+*.DS_Store
+
+python/ligodata/H-H1_LOSC_4_V1-815828992-4096.hdf5
